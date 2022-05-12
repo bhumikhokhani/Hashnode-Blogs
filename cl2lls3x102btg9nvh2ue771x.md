@@ -1,5 +1,7 @@
 ## Typesense Cloud Review 2022: Details, Pricing, & Features
 
+The link to original post is [here](https://aviyel.com/post/3087/typesense-cloud-review-2022-details-pricing-features).
+
 ## Introduction
 
 Search is one of the few technologies that has been a huge part of our daily life. It's everywhere — e-commerce sites, blogs, knowledge bases, etc— not because a search box and icons are visually appealing, but because they perform a major role.
@@ -114,8 +116,8 @@ Search engines give a nearly zero-effort product that has exponential advantages
 
 Let me know if you have any queries in the comments section.
 
-And would you be interested in using an open-source tool like Typesense Cloud? Do let me know in the comment section below. I hope you enjoyed reading it! <br>
-Link to original article is [here](https://aviyel.com/post/3087/typesense-cloud-review-2022-details-pricing-features).
+And would you be interested in using an open-source tool like Typesense Cloud? Do let me know in the comment section below. I hope you enjoyed reading it!
+
 
 <hr></hr>
 
