@@ -14,11 +14,10 @@ The user experience refers to how people feel when they engage with a website, m
 
 For example; Consider a business a store you walk into and are greeted by a pleasant receptionist. They communicate in a way that makes you feel at ease. The appearance of the shop, the ease of payment, and the nice atmosphere all make you very pleased. You're heading to that store again. Right?
 
-The ultimate objective of UX design is to engage users and earn their loyalty and trust. It is the basic foundation of any successful firm. 
-
-Therefore, the most essential thing to remember when creating a mobile app is to make it both helpful and intuitive. If the app isn't useful, no one will use it. 
-
-Before users exit an app or website, designers only have just a few seconds to capture their attention. The use of known mobile UX design concepts results in a better overall user experience.
+- The ultimate objective of UX design is to engage users and earn their loyalty and trust. It is the basic foundation of any successful firm. 
+- Before users exit an app or website, designers only have just a few seconds to capture their attention. 
+- If the app isn't useful, no one will use it. Therefore, the most essential thing to remember when creating a mobile app is to make it both helpful and intuitive. 
+- The use of known mobile UX design concepts results in a better overall user experience.
 
 ![usability-ux-design-principle.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1652640698248/9vhyqp6Y1.png align="left")
 <center>Image Credits: JustInMind</center>
