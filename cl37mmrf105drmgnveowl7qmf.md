@@ -19,7 +19,7 @@ The ultimate objective of UX design is to engage users and earn their loyalty an
 
 Therefore, the most essential thing to remember when creating a mobile app is to make it both helpful and intuitive. If the app isn't useful, no one will use it. 
 
-People will not make the effort to learn how to use an app if it is beneficial but needs a lot of time and effort. Before users exit an app or website, designers only just a few seconds to capture their attention. The use of known mobile UX design concepts results in a better overall user experience.
+Before users exit an app or website, designers only just a few seconds to capture their attention. The use of known mobile UX design concepts results in a better overall user experience.
 
 ![usability-ux-design-principle.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1652640698248/9vhyqp6Y1.png align="left")
 <center>Image Credits: JustInMind</center>
