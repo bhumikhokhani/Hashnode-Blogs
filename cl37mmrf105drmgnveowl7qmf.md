@@ -7,6 +7,8 @@ Since they are immediately available at any time and from any location, smartpho
 
 When it comes to designing a mobile app, the mobile design could be a difficult subject to master. To make things easier, I've put together some really constructive tips on what you should and shouldn't do when building mobile apps. Keep these in mind while you build the user experience for your app.
 
+![1.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1652639825355/eeTZLonxb.jpg align="left")
+
 ## Why do we require User Experience?
 The user experience refers to how people feel when they engage with a website, mobile app, or desktop program. 
 
@@ -24,66 +26,74 @@ Therefore, the most essential thing to remember when creating a mobile app is to
 5. Satisfaction refers to how enjoyable it was to use the design.
 
 ## UI/UX Principles
-1. Predictable Navigation
-Your app's navigation allows it to fit into the user's comfort zone. We find it easier to flow with people that share our vibe, just like we do in life. The connection is solid, the clarity is steady, and there is no tension. That is how your navigation should be. 
+**1. Predictable Navigation**
 
-Tips to follow:
-- Universal navigation bars
-- Knowing the exact location
-- Utilize well-known navigation patterns and iconography.
+ Your app's navigation allows it to fit into the user's comfort zone. We find it easier to flow with people that share our vibe, just like we do in life. The connection is solid, the clarity is steady, and there is no tension. That is how your navigation should be. 
 
-2. Effortless Experience
-Modern users have a variety of digital gadgets at their fingertips to interact with your product. To mention a few, desktop computers, mobile devices, and tablets. You should not consider mobile design in isolation as a designer. Creating a unified experience across mobile, desktop, and tablet is critical for any business.
+> Tips to follow:
+> - Universal navigation bars
+> - Knowing the exact location
+> - Utilize well-known navigation patterns and iconography.
 
-Take, for example, Apple Music. You may create a playlist on your Mac and it will be available on your iPhone immediately. While the design of the mobile app is critical, Apple realizes that customers seek a consistent experience across iPhone, PC, and iPad.
+**2. Effortless Experience**
 
-3. Minimize Typing
-On a mobile device, typing is a time-consuming and error-prone operation. Therefore, In a small device, it's preferable to keep the quantity of typing to a minimum.
+ Modern users have a variety of digital gadgets at their fingertips to interact with your product. To mention a few, desktop computers, mobile devices, and tablets. You should not consider mobile design in isolation as a designer. Creating a unified experience across mobile, desktop, and tablet is critical for any business.
 
-Tips to follow:
-- Only ask about what you truly need. Remove any unnecessary fields from forms to keep them as short and straightforward as feasible.
-- Nobody likes filling out forms, and the longer or more difficult a form appears the less likely users are to begin filling out the gaps.
-- Make data entry as quick and easy as feasible. Prefilling fields with the most likely default answers helps to reduce decision-making and speed up the process.
+ Take, for example, Apple Music. You may create a playlist on your Mac and it will be available on your iPhone immediately. While the design of the mobile app is critical, Apple realizes that customers seek a consistent experience across iPhone, PC, and iPad.
 
-4. Testing the Design
-Always put your design through testing.
-When implemented in the real world, even the most well-designed UI and well-thought-out UX will have some invisible defects. All too frequently, a design that appears excellent on a designer's big desktop screen fails miserably when tested on an actual mobile device. That is why it is important to test your app with real users on a range of mobile devices to ensure that it both looks and operates properly.
+**3. Minimize Typing**
 
-Tips to follow:
-- Request that genuine users do routine chores in your app. You'll be able to examine how well the design performs based on the results of testing.
-- Always measure your app. 
-- Use data from your app to treat it as a living that is always developing.
+ On a mobile device, typing is a time-consuming and error-prone operation. Therefore, In a small device, it's preferable to keep the quantity of typing to a minimum.
 
-5. Legible Texts
-On a mobile device, the text is quite small. Reading on tiny devices like cell phones and tablets requires a lot of effort from the common person. You wouldn't want your app to cause digital vision syndrome in your consumers. 
-Tips to follow:
-- Make the texts legible and recognizable.
-- To discover the most legible tuning for your mobile app screen, correct and alter the line length, spacing, text styles, font size, and so on.
-- Remember to test for it in several device modes.
+ > Tips to follow:
+> - Only ask about what you truly need. Remove any unnecessary fields from forms to keep them as short and straightforward as feasible.
+> - Nobody likes filling out forms, and the longer or more difficult a form appears the less likely users are to begin filling out the gaps.
+> - Make data entry as quick and easy as feasible. Prefilling fields with the most likely default answers helps to reduce decision-making and speed up the process.
 
-6. No Clutter
-Clarity is a key feature of a great mobile app design. A crowded user interface (UI) has never produced positive outcomes. Too many buttons or graphics simply complicate usability and annoy your clients. 
+**4. Testing the Design**
 
-Tips to follow:
-- To enhance UI, use a simple design strategy that focuses on only one or two activities on a single screen.
-- Keep the material brief, establish headers, and use white space strategically to avoid random stuff.
-- To increase visibility, avoid clutter, and make the design unobtrusive.
+ When implemented in the real world, even the most well-designed UI and well-thought-out UX will have some invisible defects. All too frequently, a design that appears excellent on a designer's big desktop screen fails miserably when tested on an actual mobile device. That is why it is important to test your app with real users on a range of mobile devices to ensure that it both looks and operates properly.
 
-7. User-focused
-Empathizing with the user is one of the most important mobile user interface design elements. It would be advantageous if you were well-versed in your target audience's tastes and created an app that catered to their interests.
+> Tips to follow:
+> - Request that genuine users do routine chores in your app. You'll be able to examine how well the design performs based on the results of testing.
+> - Always measure your app. 
+> - Use data from your app to treat it as a living that is always developing.
 
-Tips
-- A survey of your target population may assist you in understanding the user's expectations from the app design.
-- Integrating functionality to tackle client pain points when the building is a smart concept. - Furthermore, pay great attention to aesthetics.
-- Using analytics, keep track of all demographic data. You can build an intuitive mobile app user experience that addresses all of your consumers' pain points by empathizing with them.
+**5. Legible Texts**
 
-8. Color Psychology
-When switching between screens, use subtle animations to add professionalism to your app, and pay particular attention to the color schemes for your mobile app. Each color tells a unique narrative and evokes a distinct emotion. 
+ On a mobile device, the text is quite small. Reading on tiny devices like cell phones and tablets requires a lot of effort from the common person. You wouldn't want your app to cause digital vision syndrome in your consumers. 
+> Tips to follow:
+> - Make the texts legible and recognizable.
+> - To discover the most legible tuning for your mobile app screen, correct and alter the line length, spacing, text styles, font size, and so on.
+> - Remember to test for it in several device modes.
 
-Tips to follow:
-- As your mobile app should seem like an extension of your website, use a color palette that matches your company's colors.
-- Choose colors that complement your branding objectives.
-- After a click, the color of a button changes, indicating that a user action has been accomplished.
+**6. No Clutter**
+
+ Clarity is a key feature of a great mobile app design. A crowded user interface (UI) has never produced positive outcomes. Too many buttons or graphics simply complicate usability and annoy your clients. 
+
+> Tips to follow:
+> - To enhance UI, use a simple design strategy that focuses on only one or two activities on a single screen.
+> - Keep the material brief, establish headers, and use white space strategically to avoid random stuff.
+> - To increase visibility, avoid clutter, and make the design unobtrusive.
+
+**7. User-focused**
+
+ Empathizing with the user is one of the most important mobile user interface design elements. It would be advantageous if you were well-versed in your target audience's tastes and created an app that catered to their interests.
+
+> Tips to follow:
+> - A survey of your target population may assist you in understanding the user's expectations from the app design.
+> - Integrating functionality to tackle client pain points when the building is a smart concept.
+> - Furthermore, pay great attention to aesthetics.
+> - Using analytics, keep track of all demographic data. You can build an intuitive mobile app user experience that addresses all of your consumers' pain points by empathizing with them.
+
+**8. Color Psychology**
+
+ When switching between screens, use subtle animations to add professionalism to your app, and pay particular attention to the color schemes for your mobile app. Each color tells a unique narrative and evokes a distinct emotion. 
+
+> Tips to follow:
+> - As your mobile app should seem like an extension of your website, use a color palette that matches your company's colors.
+> - Choose colors that complement your branding objectives.
+> - After a click, the color of a button changes, indicating that a user action has been accomplished.
 
 ## Closing
 The process of UX design is never-ending. Every time you have fresh ideas or feedback, you must work on it. 
