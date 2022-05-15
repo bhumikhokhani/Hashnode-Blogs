@@ -7,7 +7,8 @@ Since they are immediately available at any time and from any location, smartpho
 
 When it comes to designing a mobile app, the mobile design could be a difficult subject to master. To make things easier, I've put together some really constructive tips on what you should and shouldn't do when building mobile apps. Keep these in mind while you build the user experience for your app.
 
-![1.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1652639825355/eeTZLonxb.jpg align="left")
+![1.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1652639825355/eeTZLonxb.jpg align="center")
+<center>Image Credits: Pinterest</center>
 
 ## Why do we require User Experience?
 The user experience refers to how people feel when they engage with a website, mobile app, or desktop program. 
@@ -16,7 +17,9 @@ For example; Consider a business that you frequent. You walk into a store and ar
 
 The ultimate objective of UX design is to engage users and earn their loyalty and trust. It is the basic foundation of any successful firm. 
 
-Therefore, the most essential thing to remember when creating a mobile app is to make it both helpful and intuitive. If the app isn't useful, no one will use it. People will not make the effort to learn how to use an app if it is beneficial but needs a lot of time and effort. Before users exit an app or website, designers only just a few seconds to capture their attention. The use of known mobile UX design concepts results in a better overall user experience.
+Therefore, the most essential thing to remember when creating a mobile app is to make it both helpful and intuitive. If the app isn't useful, no one will use it. 
+
+People will not make the effort to learn how to use an app if it is beneficial but needs a lot of time and effort. Before users exit an app or website, designers only just a few seconds to capture their attention. The use of known mobile UX design concepts results in a better overall user experience.
 
 ### 5 Basic Usability Principles
 1. Learnability is the ease with which new users perform tasks.
@@ -26,6 +29,10 @@ Therefore, the most essential thing to remember when creating a mobile app is to
 5. Satisfaction refers to how enjoyable it was to use the design.
 
 ## UI/UX Principles
+
+![2.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1652640468835/SUN0zrFQ2.png align="center")
+<center>Image Credits: MindInventory</center>
+
 **1. Predictable Navigation**
 
  Your app's navigation allows it to fit into the user's comfort zone. We find it easier to flow with people that share our vibe, just like we do in life. The connection is solid, the clarity is steady, and there is no tension. That is how your navigation should be. 
