@@ -1,16 +1,15 @@
 ## Mobile UI/UX Design Principles You Should Know
 
 ## Introduction
-In 2016, smartphones were utilized by more than 28 percent of the world's population. According to statistics, the worldwide smartphone user base will reach 8.3 billion by 2022.
+In 2016, smartphones were used by more than 28 percent of the world's population. According to statistics, the worldwide smartphone user base will reach 8.3 billion by 2022.
 
 Since they are immediately available at any time and from any location, smartphones have become a go-to source for all types of information. Services and features such as banking, placing orders, healthcare tracking, and even home security has become part of the smartphone experience, in addition to communication and information collection.
 
 ![1.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1652639825355/eeTZLonxb.jpg align="center")
 <center>Image Credits: Pinterest</center>
 
-When it comes to designing a mobile app, the mobile design could be a difficult subject to master. To make things easier, I've put together some really constructive tips on what you should and shouldn't do when building mobile apps. Keep these in mind while you build the user experience for your app.
-
 ## Why do we require User Experience?
+
 The user experience refers to how people feel when they engage with a website, mobile app, or desktop program. 
 
 For example; Consider a business that you frequent. You walk into a store and are greeted by a pleasant receptionist. He communicates in a way that makes you feel at ease. The appearance of the shop, the ease of payment, and the nice atmosphere all make you very pleased. You're heading to that store again. Right?
@@ -19,7 +18,7 @@ The ultimate objective of UX design is to engage users and earn their loyalty an
 
 Therefore, the most essential thing to remember when creating a mobile app is to make it both helpful and intuitive. If the app isn't useful, no one will use it. 
 
-Before users exit an app or website, designers only just a few seconds to capture their attention. The use of known mobile UX design concepts results in a better overall user experience.
+Before users exit an app or website, designers only have just a few seconds to capture their attention. The use of known mobile UX design concepts results in a better overall user experience.
 
 ![usability-ux-design-principle.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1652640698248/9vhyqp6Y1.png align="left")
 <center>Image Credits: JustInMind</center>
@@ -38,12 +37,12 @@ Before users exit an app or website, designers only just a few seconds to captur
 
 **1. Predictable Navigation**
 
- Your app's navigation allows it to fit into the user's comfort zone. We find it easier to flow with people that share our vibe, just like we do in life. The connection is solid, the clarity is steady, and there is no tension. That is how your navigation should be. 
+ Your app's navigation allows it to fit into the user's comfort zone. We find it easier to flow with people that share our vibe, just like we do in life. The connection is solid, the clarity is steady, and there is no tension. That is how your navigation should be.
 
 > Tips to follow:
 > - Universal navigation bars
 > - Knowing the exact location
-> - Utilize well-known navigation patterns and iconography.
+> - Utilise well-known navigation patterns and iconography.
 
 **2. Effortless Experience**
 
