@@ -12,7 +12,7 @@ Since they are immediately available at any time and from any location, smartpho
 
 The user experience refers to how people feel when they engage with a website, mobile app, or desktop program. 
 
-For example; Consider a business that you frequent. You walk into a store and are greeted by a pleasant receptionist. He communicates in a way that makes you feel at ease. The appearance of the shop, the ease of payment, and the nice atmosphere all make you very pleased. You're heading to that store again. Right?
+For example; Consider a business a store you walk into and are greeted by a pleasant receptionist. They communicate in a way that makes you feel at ease. The appearance of the shop, the ease of payment, and the nice atmosphere all make you very pleased. You're heading to that store again. Right?
 
 The ultimate objective of UX design is to engage users and earn their loyalty and trust. It is the basic foundation of any successful firm. 
 
@@ -24,11 +24,11 @@ Before users exit an app or website, designers only have just a few seconds to c
 <center>Image Credits: JustInMind</center>
 
 ### 5 Basic Usability Principles
-1. Learnability is the ease with which new users perform tasks.
-2. Efficiency refers to how quickly people can accomplish simple activities after learning the design.
-3. Users' capacity to recall how to operate the system is called memorability.
-4. Errors are the number and severity of errors made by users, as well as how readily they may be corrected.
-5. Satisfaction refers to how enjoyable it was to use the design.
+1. Learnability refers to the ease with which new users complete tasks.
+2. Efficiency is the speed with which individuals can complete basic tasks after understanding the design.
+3. Memorability refers to a user's ability to recollect how to use a system.
+4. Errors refer to the amount and severity of user errors, as well as the ease with which they may be repaired.
+5. User satisfaction relates to how fun the design was to use.
 
 ## UI/UX Principles
 
