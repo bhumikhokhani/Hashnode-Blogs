@@ -5,10 +5,10 @@ In 2016, smartphones were utilized by more than 28 percent of the world's popula
 
 Since they are immediately available at any time and from any location, smartphones have become a go-to source for all types of information. Services and features such as banking, placing orders, healthcare tracking, and even home security has become part of the smartphone experience, in addition to communication and information collection.
 
-When it comes to designing a mobile app, the mobile design could be a difficult subject to master. To make things easier, I've put together some really constructive tips on what you should and shouldn't do when building mobile apps. Keep these in mind while you build the user experience for your app.
-
 ![1.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1652639825355/eeTZLonxb.jpg align="center")
 <center>Image Credits: Pinterest</center>
+
+When it comes to designing a mobile app, the mobile design could be a difficult subject to master. To make things easier, I've put together some really constructive tips on what you should and shouldn't do when building mobile apps. Keep these in mind while you build the user experience for your app.
 
 ## Why do we require User Experience?
 The user experience refers to how people feel when they engage with a website, mobile app, or desktop program. 
@@ -20,6 +20,9 @@ The ultimate objective of UX design is to engage users and earn their loyalty an
 Therefore, the most essential thing to remember when creating a mobile app is to make it both helpful and intuitive. If the app isn't useful, no one will use it. 
 
 People will not make the effort to learn how to use an app if it is beneficial but needs a lot of time and effort. Before users exit an app or website, designers only just a few seconds to capture their attention. The use of known mobile UX design concepts results in a better overall user experience.
+
+![usability-ux-design-principle.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1652640698248/9vhyqp6Y1.png align="left")
+<center>Image Credits: JustInMind</center>
 
 ### 5 Basic Usability Principles
 1. Learnability is the ease with which new users perform tasks.
