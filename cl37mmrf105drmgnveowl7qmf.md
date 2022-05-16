@@ -3,7 +3,9 @@
 ## Introduction
 In 2018, smartphones were used by more than 28 percent of the world's population. According to statistics, the worldwide smartphone user base would cross 8.3 billion by 2050.
 
-Since they are immediately available at any time and from any location, smartphones have become a go-to source for all types of information. Services and features such as banking, placing orders, healthcare tracking, and even home security has become part of the smartphone experience, in addition to communication and information collection.
+Services and features such as banking, placing orders, healthcare tracking, and even home security has become part of the smartphone experience, in addition to communication and information collection too.
+
+Since they are immediately available at any time and from any location, smartphones have become a go-to source for all types of information. 
 
 ![1.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1652639825355/eeTZLonxb.jpg align="center")
 <center>Image Credits: Pinterest</center>
