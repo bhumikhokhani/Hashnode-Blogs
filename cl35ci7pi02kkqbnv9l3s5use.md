@@ -60,7 +60,12 @@ Here are 6 ways to build enterprise readiness into your SaaS product roadmaps:
 BoxyHQ, either way, is a rapid and easy-to-use tool. BoxyHQ enables corporate functionality in any SaaS product with just a few lines of code for startups. In minutes, you can integrate SAML, Audit Logs, Privacy Vault, and Role-Based Access. Plus, it is open source and free.
 
 While selecting a Saas solution for your project, the first thing to keep in mind is the functionalities and features it provides. Pritiozing approaches that are useful. And I personally feel, in the current market, nothing compared to BoxyHQ gives any better solution. 
-Let me know if you have any queries in the comments section. And would you be interested in building your next Saas product roadmap with an open-source tool like BoxyHQ? Do let me know in the comment section below. I hope you enjoyed reading it! <br>
+
+Let me know if you have any queries in the comments section. 
+
+And would you be interested in building your next Saas product roadmap with an open-source tool like BoxyHQ? Do let me know in the comment section below. 
+
+I hope you enjoyed reading it! <br>
 
 
 <hr></hr>
