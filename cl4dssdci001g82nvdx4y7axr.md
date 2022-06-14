@@ -1,5 +1,7 @@
 ## 10 Must-Have DevOps Tools in 2022
 
+>***The link to the original post is [here](https://aviyel.com/post/3311/10-must-have-devops-tools-in-2022)***
+
 # Introduction
 
 DevOps is essential whether you want to automate the stages of testing, creating, or releasing a project. According to statistics, when DevOps principles are used, [68% of firms](https://www.strongdm.com/blog/devops-tools) see an improvement in software development quality.
