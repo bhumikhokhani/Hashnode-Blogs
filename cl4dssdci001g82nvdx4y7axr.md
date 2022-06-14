@@ -1,6 +1,6 @@
 ## 10 Must-Have DevOps Tools in 2022
 
->***The link to the original post is [here](https://aviyel.com/post/3311/10-must-have-devops-tools-in-2022)***
+>*The link to the original post is [here](https://aviyel.com/post/3311/10-must-have-devops-tools-in-2022)*
 
 # Introduction
 
