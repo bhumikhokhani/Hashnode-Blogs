@@ -141,4 +141,12 @@ Let me know if you have any queries in the comments section.
 
 And would you be interested in using an [open-source tool](https://aviyel.com/projects) like Tolgee? Do let me know in the comment section below. I hope you enjoyed reading it!
 
-Would you mind following [AviyelHq](https://aviyel.com/) on [Twitter](https://twitter.com/AviyelHq)?
+
+<hr></hr>
+
+Feel free to connect with me on  [LinkedIn](https://www.linkedin.com/in/bhumikhokhani/)  |  [Twitter](https://twitter.com/bhumikhokhani) 
+<br>
+> 
+If you like my work, you can extend your support by buying me a ☕. Thank you!
+
+<a href="https://www.buymeacoffee.com/bhumikhokhani"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=bhumikhokhani&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a> 
