@@ -1,5 +1,6 @@
 ## ActiveAdmin vs ToolJet
 
+<meta name="monetization" content="$ilp.uphold.com/fXgYL9dgXzHk">
 > The link to the original post is [here](https://aviyel.com/post/3196/activeadmin-vs-tooljet)
 
 ## Introduction
