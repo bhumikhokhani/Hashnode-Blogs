@@ -1,5 +1,7 @@
 ## Mobile UI/UX Design Principles You Should Know
 
+<meta name="monetization" content="$ilp.uphold.com/fXgYL9dgXzHk">
+
 ## Introduction
 In 2018, smartphones were used by more than 28 percent of the world's population. According to statistics, the worldwide smartphone user base would cross 8.3 billion by 2050.
 
