@@ -2,7 +2,7 @@
 
 <meta name="monetization" content="$ilp.uphold.com/fXgYL9dgXzHk">
 
-> *The link to the original post is [here](**https://aviyel.com/post/3303/introducing-fonoster-an-open-source-alternative-to-twilio**)*
+> *The link to the original post is [here](https://aviyel.com/post/3303/introducing-fonoster-an-open-source-alternative-to-twilio)*
 
 ## Introduction
 
