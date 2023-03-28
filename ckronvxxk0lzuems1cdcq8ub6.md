@@ -1,4 +1,13 @@
-## Chatwoot - Localization of Chats
+---
+title: "Chatwoot - Localization of Chats"
+datePublished: Thu Jul 29 2021 08:35:14 GMT+0000 (Coordinated Universal Time)
+cuid: ckronvxxk0lzuems1cdcq8ub6
+slug: chatwoot-localization-of-chats
+canonical: https://aviyel.com/post/472/chatwoot-localization-of-chats
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1627655206821/O8SqqM4Ln.png
+tags: software-development, programming-blogs, opensource, chatbot
+
+---
 
 <center>
 ![1.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1627546930493/H2OkHdPkw.png)
