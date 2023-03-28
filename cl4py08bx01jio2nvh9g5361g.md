@@ -1,4 +1,15 @@
-## LangOps and The Rise of Localisation
+---
+title: "LangOps and The Rise of Localisation"
+seoTitle: "LangOps and Rise of Localization"
+seoDescription: "Let's learn about LangOps, the rising trend, how to choose a LangOps leader, and the open-source tool that will help you through."
+datePublished: Wed Jun 22 2022 18:42:27 GMT+0000 (Coordinated Universal Time)
+cuid: cl4py08bx01jio2nvh9g5361g
+slug: langops-and-the-rise-of-localisation
+canonical: https://aviyel.com/post/3378/langops-and-the-rise-of-localisation
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1655917738136/ttzBthzkw.png
+tags: opensource, devops, localization, langops, tolgee
+
+---
 
 <meta name="monetization" content="$ilp.uphold.com/fXgYL9dgXzHk">
 > *The link to the original post is [here](https://aviyel.com/post/3378/langops-and-the-rise-of-localisation)*
