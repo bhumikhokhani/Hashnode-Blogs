@@ -1,4 +1,12 @@
-## My #2Articles1Week Challenge
+---
+title: "My #2Articles1Week Challenge"
+datePublished: Tue Jul 13 2021 05:48:23 GMT+0000 (Coordinated Universal Time)
+cuid: ckr1mvqk20dotqus1a5bs1udc
+slug: my-2articles1week-challenge
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1626154918349/-R8vwsuqY.png
+tags: blogging, beginners, hashnode, 2articles1week
+
+---
 
 <head><meta name="monetization" content="$ilp.uphold.com/fXgYL9dgXzHk"></head>
 <!-- Google Tag Manager -->
