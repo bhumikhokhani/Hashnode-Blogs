@@ -1,4 +1,12 @@
-## Jobless to Job Ready
+---
+title: "Jobless to Job Ready"
+datePublished: Mon Jul 05 2021 22:30:17 GMT+0000 (Coordinated Universal Time)
+cuid: ckqr75dix02dyjcs1ac5b1jcj
+slug: jobless-to-job-ready
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1625520870154/G_NO9Ewfq.png
+tags: interview, internships, beginners, jobs, 2articles1week
+
+---
 
 <head><meta name="monetization" content="$ilp.uphold.com/fXgYL9dgXzHk"></head>
 <!-- Google Tag Manager -->
