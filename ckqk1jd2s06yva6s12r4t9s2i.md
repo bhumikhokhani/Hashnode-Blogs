@@ -1,4 +1,12 @@
-## Preparing for Interviews
+---
+title: "Preparing for Interviews"
+datePublished: Wed Jun 30 2021 22:18:49 GMT+0000 (Coordinated Universal Time)
+cuid: ckqk1jd2s06yva6s12r4t9s2i
+slug: preparing-for-interviews
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1625082394084/P4aWDaWui.png
+tags: interview, developer, 2articles1week
+
+---
 
 <head><meta name="monetization" content="$ilp.uphold.com/fXgYL9dgXzHk"></head>
 <!-- Google Tag Manager -->
