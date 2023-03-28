@@ -1,4 +1,15 @@
-## 10 Must-Have DevOps Tools in 2022
+---
+title: "10 Must-Have DevOps Tools in 2022"
+seoTitle: "10 Must-Have DevOps Tools in 2022"
+seoDescription: "In this article, let's learn what DevOps tools are and how are they benefiting us. Also, let's go about the trending DevOps tools in 2022."
+datePublished: Tue Jun 14 2022 06:43:08 GMT+0000 (Coordinated Universal Time)
+cuid: cl4dssdci001g82nvdx4y7axr
+slug: 10-must-have-devops-tools-in-2022
+canonical: https://aviyel.com/post/3311/10-must-have-devops-tools-in-2022
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1655188707881/CdEb6SuXk.png
+tags: opensource, developer, devops, apache-devlake
+
+---
 
 <meta name="monetization" content="$ilp.uphold.com/fXgYL9dgXzHk">
 > *The link to the original post is [here](https://aviyel.com/post/3311/10-must-have-devops-tools-in-2022)*
