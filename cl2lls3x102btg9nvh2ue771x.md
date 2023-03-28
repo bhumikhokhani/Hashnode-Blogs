@@ -1,4 +1,13 @@
-## Typesense Cloud Review 2022: Details, Pricing, & Features
+---
+title: "Typesense Cloud Review 2022: Details, Pricing, & Features"
+datePublished: Sat Apr 30 2022 08:29:43 GMT+0000 (Coordinated Universal Time)
+cuid: cl2lls3x102btg9nvh2ue771x
+slug: typesense-cloud-review-2022-details-pricing-and-features
+canonical: https://aviyel.com/post/3087/typesense-cloud-review-2022-details-pricing-features
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651307176705/WhkGGG5Bg.png
+tags: search, opensource, thw-cloud-computing
+
+---
 
 The link to original post is [here](https://aviyel.com/post/3087/typesense-cloud-review-2022-details-pricing-features).
 
