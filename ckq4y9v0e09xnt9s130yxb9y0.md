@@ -1,4 +1,13 @@
-## Building Simple CSS Projects
+---
+title: "Building Simple CSS Projects"
+seoTitle: "Building Simple CSS Projects"
+datePublished: Sat Apr 30 2022 10:23:59 GMT+0000 (Coordinated Universal Time)
+cuid: ckq4y9v0e09xnt9s130yxb9y0
+slug: building-simple-css-projects
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1624169573032/uVKS4duQs.png
+tags: css, web-development, 7daystreak, thw-web-apps, thw-mobile-apps
+
+---
 
 <head><meta name="monetization" content="$ilp.uphold.com/fXgYL9dgXzHk"></head>
 # Introduction
