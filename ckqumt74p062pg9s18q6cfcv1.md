@@ -1,4 +1,13 @@
-## Top 10 job skills of Tomorrow
+---
+title: "Top 10 job skills of Tomorrow"
+seoTitle: "Top 10 Job Skills of Tomorrow"
+datePublished: Thu Jul 08 2021 08:12:01 GMT+0000 (Coordinated Universal Time)
+cuid: ckqumt74p062pg9s18q6cfcv1
+slug: top-10-job-skills-of-tomorrow
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1625731836240/iV3O4QEyC.png
+tags: interviews, beginners, 2articles1week
+
+---
 
 <head><meta name="monetization" content="$ilp.uphold.com/fXgYL9dgXzHk"></head>
 <!-- Google Tag Manager -->
