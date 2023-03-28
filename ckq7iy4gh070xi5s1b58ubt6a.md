@@ -1,4 +1,13 @@
-## Getting Started with JavaScript - 2
+---
+title: "Getting Started with JavaScript - 2"
+seoTitle: "Getting started with Javascript"
+datePublished: Fri May 06 2022 10:24:51 GMT+0000 (Coordinated Universal Time)
+cuid: ckq7iy4gh070xi5s1b58ubt6a
+slug: getting-started-with-javascript-2
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1624293882390/oHsvvfiBv.png
+tags: web-development, beginners, 7daystreak, thw-web-apps, thw-mobile-apps
+
+---
 
 <head> <meta name="monetization" content="$ilp.uphold.com/fXgYL9dgXzHk"> </head>
 > 
