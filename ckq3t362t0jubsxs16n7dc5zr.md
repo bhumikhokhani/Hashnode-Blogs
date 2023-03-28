@@ -1,4 +1,13 @@
-## Getting started with CSS
+---
+title: "Getting started with CSS"
+seoTitle: "Getting Started with CSS"
+datePublished: Thu Apr 28 2022 10:23:47 GMT+0000 (Coordinated Universal Time)
+cuid: ckq3t362t0jubsxs16n7dc5zr
+slug: getting-started-with-css
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1624041514740/zG1bEn2Em.png
+tags: web-development, beginners, 7daystreak, thw-web-apps, thw-mobile-apps
+
+---
 
 <head><meta name="monetization" content="$ilp.uphold.com/fXgYL9dgXzHk"></head>
 ### What is CSS?
