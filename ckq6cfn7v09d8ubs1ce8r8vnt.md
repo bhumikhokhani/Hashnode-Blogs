@@ -1,4 +1,13 @@
-## Getting Started with JavaScript - 1
+---
+title: "Getting Started with JavaScript - 1"
+seoTitle: "Getting started with Javascript"
+datePublished: Wed May 04 2022 10:24:39 GMT+0000 (Coordinated Universal Time)
+cuid: ckq6cfn7v09d8ubs1ce8r8vnt
+slug: getting-started-with-javascript-1
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1624263209155/yhXUAq_71.png
+tags: javascript, web-development, webdev, beginners, 7daystreak
+
+---
 
 <head> <meta name="monetization" content="$ilp.uphold.com/fXgYL9dgXzHk"> </head>
 ## What is JavaScript?
