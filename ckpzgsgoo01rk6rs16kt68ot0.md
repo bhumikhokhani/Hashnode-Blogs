@@ -1,4 +1,13 @@
-## Introduction to Web Development
+---
+title: "Introduction to Web Development"
+seoTitle: "Introduction to Web Development"
+datePublished: Fri Apr 22 2022 10:22:33 GMT+0000 (Coordinated Universal Time)
+cuid: ckpzgsgoo01rk6rs16kt68ot0
+slug: introduction-to-web-development
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1623847714551/p_5njPN84.png
+tags: web-development, 2articles1week, 7daystreak, thw-web-apps, thw-mobile-apps
+
+---
 
 <head><meta name="monetization" content="$ilp.uphold.com/fXgYL9dgXzHk"></head>
 <h1> Introduction </h1>
