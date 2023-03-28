@@ -1,4 +1,13 @@
-## Building Simple HTML Projects
+---
+title: "Building Simple HTML Projects"
+seoTitle: "Building Simple HTML Projects"
+datePublished: Tue Apr 26 2022 10:23:03 GMT+0000 (Coordinated Universal Time)
+cuid: ckq27exmw06oitys1evpu6j06
+slug: building-simple-html-projects
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1623968312724/FFkd_VvqV.png
+tags: web-development, 2articles1week, 7daystreak, thw-web-apps, thw-mobile-apps
+
+---
 
 <head> <meta name="monetization" content="$ilp.uphold.com/fXgYL9dgXzHk"> </head>
 # Introduction
