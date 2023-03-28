@@ -1,4 +1,14 @@
-## Learning about the 3 CSS Properties
+---
+title: "Learning about the 3 CSS Properties"
+seoTitle: "Learning Perspective 3D"
+seoDescription: "Under this we learn about the CSS properties perspective, transform and transition."
+datePublished: Mon May 02 2022 10:24:17 GMT+0000 (Coordinated Universal Time)
+cuid: ckqhsjlc90f8p7ks1bsdnf3g8
+slug: learning-about-the-3-css-properties
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1624890885316/GlkYc-BYk.png
+tags: web-development, hashnode, 2articles1week, thw-web-apps, thw-mobile-apps
+
+---
 
 <head><meta name="monetization" content="$ilp.uphold.com/fXgYL9dgXzHk"></head>
 <!-- Google Tag Manager -->
