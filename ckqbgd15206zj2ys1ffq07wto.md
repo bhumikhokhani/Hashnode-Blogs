@@ -1,4 +1,14 @@
-## Diving into Bootstrap
+---
+title: "Diving into Bootstrap"
+seoTitle: "Diving into Bootstrap"
+seoDescription: "We get started learning the structure and working of bootstrap. Also what Bootstrap has to offer by its components."
+datePublished: Tue May 10 2022 10:25:10 GMT+0000 (Coordinated Universal Time)
+cuid: ckqbgd15206zj2ys1ffq07wto
+slug: diving-into-bootstrap
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1624546552202/lw0CgYr_Z.png
+tags: web-development, hashnode, 2articles1week, thw-web-apps, thw-mobile-apps
+
+---
 
 <head> <meta name="monetization" content="$ilp.uphold.com/fXgYL9dgXzHk">
  </head>
