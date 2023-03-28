@@ -1,4 +1,15 @@
-## 6 Ways to Build Enterprise Readiness into Your SaaS Roadmap
+---
+title: "6 Ways to Build Enterprise Readiness into Your SaaS Roadmap"
+seoTitle: "6 Ways to Build Enterprise Readiness into Your SaaS Roadmap"
+seoDescription: "In this article, we will learn what is enterprise readiness, why you require a Saas Roadmap and how can you build it in 6 simple steps."
+datePublished: Sat May 14 2022 04:05:29 GMT+0000 (Coordinated Universal Time)
+cuid: cl35ci7pi02kkqbnv9l3s5use
+slug: 6-ways-to-build-enterprise-readiness-into-your-saas-roadmap
+canonical: https://aviyel.com/post/3156/6-ways-to-build-enterprise-readiness-into-your-saas-roadmap
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1652195611065/MSW4iWJfr.png
+tags: sass, tools, opensource, roadmap, thw-web-apps
+
+---
 
 <meta name="monetization" content="$ilp.uphold.com/fXgYL9dgXzHk">
 > *The link to the original post is [here](https://aviyel.com/post/3156/6-ways-to-build-enterprise-readiness-into-your-saas-roadmap)*
