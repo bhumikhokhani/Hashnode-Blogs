@@ -1,4 +1,15 @@
-## How to start an online store in 7 simple steps - Medusa.
+---
+title: "How to start an online store in 7 simple steps - Medusa."
+seoTitle: "How to start an online store in 7 simple steps - Medusa"
+seoDescription: "Talking about shopping in online stores. Let's learn about Shopify's open-source alternative Medusa. And how to easily set up an online store in 7 steps."
+datePublished: Thu May 12 2022 04:12:11 GMT+0000 (Coordinated Universal Time)
+cuid: cl32hv51300ucesnv6vh08emg
+slug: how-to-start-an-online-store-in-7-simple-steps-medusa
+canonical: https://aviyel.com/post/3071/how-to-start-an-online-store-in-7-simple-steps-medusa
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1652195656831/78rkBceg1.png
+tags: tools, opensource, ecommerce, thw-web-apps, thw-web3
+
+---
 
 > *The link to the original post is [here](https://aviyel.com/post/3071/how-to-start-an-online-store-in-7-simple-steps-medusa). *
 
