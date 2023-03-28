@@ -1,4 +1,12 @@
-## Mobile UI/UX Design Principles You Should Know
+---
+title: "Mobile UI/UX Design Principles You Should Know"
+datePublished: Sun May 15 2022 18:24:29 GMT+0000 (Coordinated Universal Time)
+cuid: cl37mmrf105drmgnveowl7qmf
+slug: mobile-uiux-design-principles-you-should-know
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1652639009553/fP8EoVdNp.png
+tags: ux, ui, mobile-development, thw-web-apps, thw-mobile-apps
+
+---
 
 <meta name="monetization" content="$ilp.uphold.com/fXgYL9dgXzHk">
 
