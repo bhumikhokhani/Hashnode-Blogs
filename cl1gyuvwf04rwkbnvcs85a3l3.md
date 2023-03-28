@@ -1,4 +1,16 @@
-## What is Typesense?
+---
+title: "What is Typesense?"
+seoTitle: "What is Typesense? | Bhumi Khokhani"
+seoDescription: "Typesense, an open-source, typo-tolerant search engine designed for “search as you type” experience. As it significantly boosts developer's productivity."
+datePublished: Fri Apr 01 2022 21:52:22 GMT+0000 (Coordinated Universal Time)
+cuid: cl1gyuvwf04rwkbnvcs85a3l3
+slug: what-is-typesense
+canonical: https://aviyel.com/post/2909/what-is-typesense
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1648848721925/mBudRBjCX.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1648850188696/ro9FZ3w5E.png
+tags: software-development, tools, opensource
+
+---
 
 # Introduction
 
