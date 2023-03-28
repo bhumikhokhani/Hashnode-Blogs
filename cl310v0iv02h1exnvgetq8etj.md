@@ -1,4 +1,15 @@
-## The nuances of multi-vendor marketplaces and How is Medusa handling them?
+---
+title: "The nuances of multi-vendor marketplaces and How is Medusa handling them?"
+seoTitle: "Nuances of multi-vendor marketplaces and How is Medusa handles them?"
+seoDescription: "We will learn about the emergence of eCommerce multi-vendor marketplaces, their challenges, and how Medusa, an open-source software handles them."
+datePublished: Wed May 11 2022 03:28:26 GMT+0000 (Coordinated Universal Time)
+cuid: cl310v0iv02h1exnvgetq8etj
+slug: the-nuances-of-multi-vendor-marketplaces-and-how-is-medusa-handling-them
+canonical: https://aviyel.com/post/3028/the-nuances-of-multi-vendor-marketplaces-and-how-is-medusa-handling-them
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1652195694922/DMzLeono_.png
+tags: opensource, ecommerce, thw-web-apps, thw-mobile-apps, thw-web3
+
+---
 
 > *The link to the original post is [here](https://aviyel.com/post/3028/the-nuances-of-multi-vendor-marketplaces-and-how-is-medusa-handling-them).*
 
