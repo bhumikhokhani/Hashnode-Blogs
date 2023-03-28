@@ -1,4 +1,13 @@
-## Best Localization Software in 2022
+---
+title: "Best Localization Software in 2022"
+datePublished: Fri May 13 2022 12:46:12 GMT+0000 (Coordinated Universal Time)
+cuid: cl34fo0dk003jqbnvecrf2c3k
+slug: best-localization-software-in-2022
+canonical: https://aviyel.com/post/807/best-online-software-documentation-tools-of-2021
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1652195582883/pa8jNB089.png
+tags: tools, opensource, localization, thw-mobile-apps, thw-cloud-computing
+
+---
 
 > *The link to the original post is [here](https://aviyel.com/post/3166/best-localization-software-in-2022)*
 
