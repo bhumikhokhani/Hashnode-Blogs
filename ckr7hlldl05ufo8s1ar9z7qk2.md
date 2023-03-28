@@ -1,4 +1,12 @@
-## Introduction to Graphic Design
+---
+title: "Introduction to Graphic Design"
+datePublished: Wed Jul 14 2021 18:30:00 GMT+0000 (Coordinated Universal Time)
+cuid: ckr7hlldl05ufo8s1ar9z7qk2
+slug: introduction-to-graphic-design
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1626345881613/zOzGAfbU6.png
+tags: design, hashnode, graphic-design, 2articles1week, womenwhotech
+
+---
 
 # Introduction
 What comes to your mind when you hear the word graphic design? Posters? Paintings? Art? No one thing can fully define what graphic design is. In this article we will discuss the basics of graphic designing and later learn in-depth what is the role of a graphic designer. So, let's dive into the topic now. 
