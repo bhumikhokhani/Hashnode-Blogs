@@ -1,4 +1,13 @@
-## Getting started with HTML
+---
+title: "Getting started with HTML"
+seoTitle: "Getting Started With HTML"
+datePublished: Sun Apr 24 2022 10:22:49 GMT+0000 (Coordinated Universal Time)
+cuid: ckq0wt1o100ioges1f54c1lue
+slug: getting-started-with-html
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1623878855304/jkVqmMsc-.png
+tags: web-development, beginners, 7daystreak, thw-web-apps, thw-mobile-apps
+
+---
 
 <head> <meta name="monetization" content="$ilp.uphold.com/fXgYL9dgXzHk"> </head>
 ### What basically is HTML?
