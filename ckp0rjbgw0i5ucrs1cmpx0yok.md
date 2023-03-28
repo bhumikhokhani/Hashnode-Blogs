@@ -1,4 +1,13 @@
-## Gaming with JS
+---
+title: "Gaming with JS"
+seoTitle: "Gaming With JS"
+datePublished: Wed Apr 20 2022 10:11:49 GMT+0000 (Coordinated Universal Time)
+cuid: ckp0rjbgw0i5ucrs1cmpx0yok
+slug: games-with-js
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1622272038700/rlXx0St1z.jpeg
+tags: css, javascript, web-development, thw-web-apps, thw-mobile-apps
+
+---
 
 <head><meta name="monetization" content="$ilp.uphold.com/fXgYL9dgXzHk"></head>
 ## ***Heyyy guyss!***
