@@ -1,4 +1,15 @@
-## ActiveAdmin vs ToolJet
+---
+title: "ActiveAdmin vs ToolJet"
+seoTitle: "ActiveAdmin vs ToolJet"
+seoDescription: "ToolJet is an open-source, low-code framework that enables you to create applications without writing any code."
+datePublished: Mon May 23 2022 14:04:57 GMT+0000 (Coordinated Universal Time)
+cuid: cl3isvsxx01eol8nvhhewbacs
+slug: activeadmin-vs-tooljet
+canonical: https://aviyel.com/post/3196/activeadmin-vs-tooljet
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1653317461527/dXN33nGgr.png
+tags: framework, opensource, developer-tools
+
+---
 
 <meta name="monetization" content="$ilp.uphold.com/fXgYL9dgXzHk">
 > The link to the original post is [here](https://aviyel.com/post/3196/activeadmin-vs-tooljet)
