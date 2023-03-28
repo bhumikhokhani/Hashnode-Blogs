@@ -1,4 +1,13 @@
-## Building Simple Javascript Projects
+---
+title: "Building Simple Javascript Projects"
+seoTitle: "Building Simple Javascript Projects"
+datePublished: Sun May 08 2022 10:25:00 GMT+0000 (Coordinated Universal Time)
+cuid: ckq8ghq8s01gtuhs16jdi4cc8
+slug: building-simple-javascript-projects
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1624391002219/ocrlYgiWB.png
+tags: web-development, 2articles1week, 7daystreak, thw-web-apps, thw-mobile-apps
+
+---
 
 <head> <meta name="monetization" content="$ilp.uphold.com/fXgYL9dgXzHk"> </head>
 # Introduction
