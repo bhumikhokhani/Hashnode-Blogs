@@ -1,4 +1,15 @@
-## Impact of Documentation on a Software Project: A Docz Evaluation
+---
+title: "Impact of Documentation on a Software Project: A Docz Evaluation"
+seoTitle: "Impact of Documentation on a Software Project: A Evaluation"
+seoDescription: "Documentation for computer programs usually consists of textual descriptions of features included in the program and illustrations showing how they look"
+datePublished: Thu Nov 25 2021 18:35:43 GMT+0000 (Coordinated Universal Time)
+cuid: ckwfaqj71068v17s1elboe5ur
+slug: impact-of-documentation-on-a-software-project-a-docz-evaluation
+canonical: https://aviyel.com/post/1420/impact-of-documentation-on-a-software-project-a-docz-evaluation
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1637865038679/SF5CqFJR5.png
+tags: software-development, opensource, documentation, developer, project-management
+
+---
 
 _[Full article available on Aviyel for free](https://aviyel.com/post/1420/impact-of-documentation-on-a-software-project-a-docz-evaluation) (leave a like here before you check it out on Aviyel)_
 
