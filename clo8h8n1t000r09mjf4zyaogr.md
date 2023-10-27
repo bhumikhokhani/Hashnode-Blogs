@@ -1,7 +1,7 @@
 ---
 title: "Top 10 API Testing Tools"
 seoDescription: "The top 10 API testing tools are presented in this article. However, before we get started, let's define an API and discuss some of its advantages."
-datePublished: Wed Jun 29 2022 18:30:00 GMT+0000 (Coordinated Universal Time)
+datePublished: Thu Oct 26 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: clo8h8n1t000r09mjf4zyaogr
 slug: top-10-api-testing-tools
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1698402676245/83a76aa1-707e-48a0-90e2-bced1d07788c.png
