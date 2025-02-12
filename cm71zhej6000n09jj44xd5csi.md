@@ -1,6 +1,6 @@
 ---
 title: "Difference Between Structured and Unstructured Data Explained!"
-datePublished: Wed Feb 12 2025 14:05:51 GMT+0000 (Coordinated Universal Time)
+datePublished: Thu Nov 11 2021 06:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm71zhej6000n09jj44xd5csi
 slug: difference-between-structured-and-unstructured-data-explained
 canonical: https://unstop.com/blog/difference-between-structured-and-unstructured-data
